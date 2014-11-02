@@ -1,6 +1,4 @@
-/*
- *  linux/init/version.c
- *
+
  *  Copyright (C) 1992  Theodore Ts'o
  *
  *  May be freely distributed as part of Linux.
